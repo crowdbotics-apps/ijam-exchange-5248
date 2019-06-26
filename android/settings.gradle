@@ -1,0 +1,3 @@
+rootProject.name = 'ijam_exchange_5248'
+
+include ':app'
